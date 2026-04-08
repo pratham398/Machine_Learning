@@ -85,5 +85,5 @@ Perform hyperparameter tuning
 Deploy the model as a web application
 👨‍💻 Author
 
-Pratham Rana
+**Pratham**
 B.Tech Student | Aspiring Machine Learning Engineer
